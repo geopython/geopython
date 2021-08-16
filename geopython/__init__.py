@@ -56,6 +56,8 @@ GeoUsage: https://github.com/geopython/GeoUsage
 pycql: https://github.com/geopython/pycql
 CadTools: https://github.com/geopthon/CadTools
 geolinks: https://github.com/geopython/geolinks
+pygml: https://github.com/geopython/pygml
+pygeofilter: https://github.com/geopython/pygeofilter
 """
 
 print(s)
