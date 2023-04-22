@@ -53,7 +53,7 @@ GeoHealthCheck: https://geohealthcheck.org
 Stetl: https://www.stetl.org
 pygeometa: https://geopython.github.io/pygeometa
 GeoUsage: https://github.com/geopython/GeoUsage
-pycql: https://github.com/geopython/pycql
+pygeofilter: https://github.com/geopython/pygeofilter
 CadTools: https://github.com/geopthon/CadTools
 geolinks: https://github.com/geopython/geolinks
 pygml: https://github.com/geopython/pygml
