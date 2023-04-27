@@ -48,7 +48,7 @@ Projects
 pycsw: https://pycsw.org
 PyWPS: https://pywps.org
 pygeoapi: https://pygeoapi.io
-OWSLib: https://geopython.github.io/OWSLib
+OWSLib: https://owslib.readthedocs.io
 GeoHealthCheck: https://geohealthcheck.org
 Stetl: https://www.stetl.org
 pygeometa: https://geopython.github.io/pygeometa
